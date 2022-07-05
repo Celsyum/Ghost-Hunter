@@ -1,6 +1,19 @@
 
 > Open this page at [https://celsyum.github.io/ghost-hunter/](https://celsyum.github.io/ghost-hunter/)
 
+## Ghost How to use
+
+ Press A tu turn on radar. It will monitor environment for temperature and magnetic field jumps and will decide when anomaly appeared.
+ Because microbit has weak shake sensor , we count steps by pressing B.
+ 
+ To play Demo (find any ghost instantly) - press A+B
+ 
+ Position microbit in front of you horizontaly and do not move it around your body.
+ While holding microbit steadily in front of you, turn yourself so that ghost location would be in front of you.
+ With each step click B till ghost point appear in same position point as you are. Press again B and you will see ghost icon, ghost was destroyed :)
+ Enjoy game with kids.
+ 
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
